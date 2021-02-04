@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612434275945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "369326322",
+    "id" : "6D11394B",
+    "lastKnownWriteTime" : 1612433496,
+    "last_content_update" : 1612433496,
+    "path" : "C:/Users/white/Rproject/r_git_practice/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
